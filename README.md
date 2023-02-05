@@ -10,6 +10,7 @@
 ## ToDo
 - Floatable Alerts / Toasts Messages
 - Loaders while loading data
+- Logout
 - User can search Public Channels
 - User can join channel before sending anything
 - User can leave the channel
